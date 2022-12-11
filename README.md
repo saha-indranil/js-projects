@@ -1,25 +1,25 @@
 # Mini JS Projects
 
-### Alarm Clock
+### Alarm Clock [non responsive]
 
-[View Website]()
+[View Website](https://saha-indranil.github.io/js-projects/Alarm%20Clock/)
 
 ### Calculator
 
-[View Website]()
+[View Website](https://saha-indranil.github.io/js-projects/Calculator/)
 
-### Currency Exchange Rate
+### Currency Exchange Rate [non responsive]
 
-[View Website]()
+[View Website](https://saha-indranil.github.io/js-projects/Exchange%20rate/)
 
 ### Quiz App
 
-[View Website]()
+[View Website](https://saha-indranil.github.io/js-projects/quiz-app/)
 
 ### Tic Tac Toe
 
-[View Website]()
+[View Website](https://saha-indranil.github.io/js-projects/Tic-Tac-Toe/)
 
 ### URL Shortener
 
-[View Website]()
+[View Website](https://saha-indranil.github.io/js-projects/URL%20Shortener/)
